@@ -22,9 +22,7 @@ Without further ado, let's get into some of the topics that stuck out to me.
 
 The conditions are an important backdrop to our entire trip. We experienced no rain, as a yearly average it rains (at best) every second day. The day before we set off, wind was measured at 110kph at Cradle Mt visitor centre and hearing from those that were on the trail that day it was absolutely vicious. I measure temperature using my GoVee thermo hygrometer, it did spend some nights inside huts with me so I've provided an overall view of temperatures:
 
-{% figure caption:"Temperature over the week as reported by the GoVee device." %}
-  ![Weekly Temps](/assets/images/post_res/overland/govee.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/govee.jpg" description="Temperature over the week as reported by the GoVee device." %}
 
 Dates: March 04-09 2024
 Approx Daily High: 20-26 C
@@ -41,31 +39,23 @@ We got there later than most, being one of the last on the list to be ticked off
 
 The climb up to Marion's lookout was a good introduction to the trail. Not a particularly hard climb but a gentle reminder that the Overland track is not a flat meandering walk and will include plenty of elevation gain. We made it to Kitchen Hut in good time, around 14:00, and unwrapped our Subway sandwiches while we decided if a Cradle Mountain ascent would be possible. I cannot stress enough just how delightful having subway was.
 
-{% figure caption:"Looking out after ascending the first real hill." %}
-  ![Lake view](/assets/images/post_res/overland/marion.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/marion.jpg" description="Looking out after ascending the first real hill." %}
 
 We dropped our packs and grabbed a water bottle and a hiking pole each, figuring that the climb wasn't really that far and we'd be done quickly. This, in hindsight, was not the best way to do this. Hiking poles are mostly useless for this side trip and get in the way during the rock scramble. Carrying a water bottle also gets in the way. Alas, we had not brought a day-pack but that is not u l t r a l i g h t and so up we went with water bottles in hand. On our way up we passed tired hikers who encouragingly told us we were nearly there - bloody liars - until we passed a lady who had fallen during the rock scramble, semi-mercifully having her fall broken by a big rock. This did stop her tumbling to her death, but also left a bloody cut, a reminder that you absolutely can get hurt. We climbed up to the main false peak, looked at how far we had left and where the sun was, and decided that today was not our day.
 
-{% figure caption:"Looking back to the trail, most of the way up Cradle Mountain" %}
-  ![Cradle Mountain](/assets/images/post_res/overland/cradle.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/cradle.jpg" description="Looking back to the trail, most of the way up Cradle Mountain" %}
 
 Sheepishly we climbed down to our packs, drank some water, and got on our way. The rest of the walk to waterfall valley is beautiful if a bit uneventful. The walk down into waterfall valley is fairly steep and fairly slippery - I would imagine this would be difficult in the rain, and we made it to the hut before sunset. We were met by a volunteer staying at the nearby staffed hut who let us know she was there if we needed help and that there was also a hut warden there, one of only two we saw on the trail.
 
-{% figure caption:"Arriving to the hut at Waterfall Valley after a fairly treachorous descent." %}
-  ![Waterfall Valley](/assets/images/post_res/overland/waterfallvalley.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/waterfallvalley.jpg" description="Arriving to the hut at Waterfall Valley after a fairly treachorous descent." %}
 
 Total time: 3h30m
 
 ### Day 2 - Waterfall Valley to Lake Windermere
 
-We woke up early-ish due to the sun and other hikers getting up and about. A quick brekky and out onto the trail where we met a Wombat rooting around next to the trail. Walking earlier is always my preference, my absolute favourite time to be out is just as the sun is rising while the air is cool and there's still some dew about. The mixture of soft reflected light and hard light directly from the sun provides a litle sumn sumn that energises me.
+We woke up early-ish due to the sun and other hikers getting up and about. A quick brekky and out onto the trail where we met a wombat rooting around next to the trail. Walking earlier is always my preference, my absolute favourite time to be out is just as the sun is rising while the air is cool and there's still some dew about. The mixture of soft reflected light and hard light directly from the sun provides a litle sumn sumn that energises me.
 
-{% figure caption:"A friendly Wombat in the morning. Remember not to touch wildlife." %}
-  ![Wombat](/assets/images/post_res/overland/wombat.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/wombat.jpg" description="A friendly wombat in the morning. Remember not to touch wildlife." %}
 
 This day was really short - we had considered doing it as a double and walking instead of taking the ferry - but chose to just enjoy a relaxing day. In the future, I would probably double this by combining it with the first day, taking an earlier bus and skipping Cradle Mountain. Otherwise, a side trip to Barn Bluff would give this day a bit more tooth.
 
@@ -73,9 +63,7 @@ The landscape was beautiful on this day with low shrub providing unobstructed vi
 
 At Lake Windermere we swam several times - including one accidental strip show in front of a guided walk while I cleaned my underwear. The value of a swim after a day of walking cannot be overstated and I am beyond grateful that we were able to swim every day of the trail, keeping our bodies and odor fresh.
 
-{% figure caption:"The hut at Lake Windermere at sunset." %}
-  ![Lake Windermere](/assets/images/post_res/overland/windermere.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/windermere.jpg" description="The hut at Lake Windermere at sunset." %}
 
 Total time: 1h45m
 
@@ -83,21 +71,15 @@ Total time: 1h45m
 
 Without side trips, this is one of the harder days simply because it is one of the longest. The elevation gain is modest at ~340m, in fact you spend most of the day walking downhill into Frog Flat before an honest uphill to get you to the hut. This day was extremely fun, roaming through forested sections and lush growth with plenty of great spots to stop and have a snack. This was our first day of real mud with some seriously boggy sections, but that's all part of the fun. What wasn't so fun, was the whooping I caught from mosquitos. We stopped at Frog Flat for lunch and while I was eating, I got eated. They were vicious, unrelenting, and worst of all *sneaky* - attacking me from behind and sticking me in the back where I didn't notice them. Woe is me.
 
-{% figure caption:"A typical stretch of rainforest trail." %}
-  ![Forest Trail](/assets/images/post_res/overland/forest.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/forest.jpg" description="A typical stretch of rainforest trail." %}
 
 You emerge from the forested section into a more typical Australia terrain with dryer substrate and large gum trees lining the path - apparently many snakes were spotted on this section - a welcome landscape shift as you approach the New Pelion hut. New Pelion hut is one of the older new huts, more akin to a school camp or scout hall than the architectural new builds but this wasn't unpleasant. Don't get me wrong, the new huts are incredible, but New Pelion had a familiar feel closer to what I would expect from a hut on a hike. On any other trail without comparison to the scandi-huts, New Pelion would be a very very nice hut.
 
-{% figure caption:"Watching sunset from the helipad at New Pelion hut." %}
-  ![New Pelion](/assets/images/post_res/overland/heli.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/heli.jpg" description="Watching sunset from the helipad at New Pelion hut." %}
 
 We wandered across to Old Pelion hut, read some of the entries in the book there which were very interesting, and continued down for a swim in the river. Turns out everyone else had the same idea so we had an impromptu pool part on the banks of the river, reviving our muscles and our spirits.
 
-{% figure caption:"Xmid Pro 2 plus making an appearance at New Pelion hut. GoVee visible hanging from my guyline." %}
-  ![Old Pelion](/assets/images/post_res/overland/xmid.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/xmid.jpg" description="Xmid Pro 2 plus making an appearance at New Pelion hut. GoVee visible hanging from my guyline." %}
 
 Total time: 4h
 
@@ -107,21 +89,15 @@ We started day 4 unsure of our intentions. Tossing up Mt Ossa and Mt Pelion East
 
 At Pelion Gap, we decided that we were brave enough to head up to Mount Ossa and started planning our ascent. Our daypack decision came back to haunt us again and we were left deciding just how many litres we were willing to carry by hand up the mountain. Thankfully we were saved by another hiker who offered us a daypack they were carrying. "Absolutely fucking not, I am not going up there" was their response when we asked if they wouldn't need it for their own ascent of Mt Ossa... so up we went! Mt Ossa was challenging due to the elevation and length, especially on a warm day, but nothing that a reasonably fit and sure footed hiker can't do safely.
 
-{% figure caption:"View of Mt Ossa from part way along the climb." %}
-  ![Mount Ossa](/assets/images/post_res/overland/ossa.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/ossa.jpg" description="View of Mt Ossa from part way along the climb." %}
 
 Following the descent from Mt Ossa, you descend further yet to Kia Ora hut which sits with a beautiful backdrop. The outside decking provides ample space for a meal or a rest and if you walk along to the bridge there is a little track off to the side - trail wizard Les recommended the third waterhole down the track and I agreed, it was much better swimming than the first two. The water here was absolutely freezing. 
 
-{% figure caption:"The swimming hole of choice near Kira Ora hut. Bloody freezing." %}
-  ![Kia Ora](/assets/images/post_res/overland/kiaora.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/kiaora.jpg" description="The swimming hole of choice near Kira Ora hut. Bloody freezing." %}
 
 There were some workers staying in the old hut doing renovations to turn it into a workshop, they came and said hi to us in the main hut and seemed interested to hear about how we were all doing. Could smell them cooking bacon and hash browns for breakfast the next morning though.... cruel!
 
-{% figure caption:"View looking back at Kia Ora hut the morning of departure." %}
-  ![Kia Ora](/assets/images/post_res/overland/kiaorahut.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/kiaorahut.jpg" description="View looking back at Kia Ora hut the morning of departure." %}
 
 Total time: 4h
 
@@ -131,21 +107,15 @@ We originally planned to end this day at Bert Nichols hut. We were booked on the
 
 Quickly after setting off we paused at Du Cane hut. Despite being uninhabitable it was one of my favourite huts of the trail, sitting in a super lush valley and with so much history inside. We spent a long time reading the information - both official and unofficial - inside the hut. Do make sure to take a look at the toilet here, it's quite something.
 
-{% figure caption:"Du Cane hut peaks out as you enter the clearing." %}
-  ![Du Cane hut](/assets/images/post_res/overland/ducane.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/ducane.jpg" description="Du Cane hut peaks out as you enter the clearing." %}
 
 We stopped off at Ferguson and Dalton falls, skipping Hartnett, which was a good balance for us. The side trip is absolutely worthwhile with the waterfalls close to each other and very very pretty.
 
-{% figure caption:"View of the waterfall after climbing down. You could easily swim here if you are brave enough." %}
-  ![The Falls](/assets/images/post_res/overland/falls.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/falls.jpg" description="View of the waterfall after climbing down. You could easily swim here if you are brave enough for the cold." %}
 
 The walk up to Bert Nichols hut is longer than anticipated with a drawn of sense of 'we must be there', to the point where we were stopping to check the map and ensure we hadn't overshot. However, since we arrived at the hut before lunchtime we made the assessment that walking in the dark would likely be more challenging than continuing on, especially as the track from this point on is a meandering downhill the rest of the way. In the end, I do feel that this was the right decision. The swimming at Narcissus is awesome, the prospect of platypus is a huge plus too, and the hut and tent platforms are honestly grand. I could see the hut being a bit cramped when weather is poor and people are cramming in, but we had a warm night with most opting to camp.
 
-{% figure caption:"Ferry arriving in the morning to take us over to Lake St Clair lodge" %}
-  ![Boat pickup](/assets/images/post_res/overland/boat.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/boat.jpg" description="Ferry arriving in the morning to take us over to Lake St Clair lodge." %}
 
 Total time: 5h40m
 
@@ -159,10 +129,7 @@ Some people we met on the trail were *deeply and personally offended* by snoring
 
 Personally, I thought the huts were awesome and if you don't love them you can just set up your tent - exactly what the people that didn't love the huts did!
 
-{% figure caption:"A typical smaller bunk room in one of the new huts." %}
-  ![Overland Huts](/assets/images/post_res/overland/hutinterior.jpg)
-{% endfigure %}
-
+{% include image.html url="/assets/images/post_res/overland/hutinterior.jpg" description="A typical smaller bunk room in one of the new huts." %}
 
 ## Gear Notes
 
@@ -180,25 +147,19 @@ Most people on the trail carried full goretex pants and a jacket. I do understan
 
 I trialled some new shoes on this hike as well, the Topo Traverse, plus Injini liners for the first hike longer than an overnight. Overall, I was extremely please with my footwear, with some caveats.
 
-{% figure caption:"A selection of shoes from the shoe rack, it's a wonder they don't get mixed up!" %}
-  ![Shoe Rack](/assets/images/post_res/overland/shoes.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/shoes.jpg" description="A selection of shoes from the shoe rack, it's a wonder they don't get mixed up" %}
 
 As you can see, nearly everyone wore a traditional hiking boot and most people were pretty happy with this decision. A number of people, maybe half, ended the trail with blisters and some had pretty severe cases. I did not escape the blister brigade and I think I know why. As it turns out, when going downhill for a long time my Injinji sock liners get pulled toward the heel and this puts a rather unpleasant sensation on the webbing between yours toes. During the descent of Mt Ossa I removed both of my liners to alleviate this issue, however it was at this time that I got a slight blister on my heel - exactly what I was wearing the liners to prevent. Alas, one problem causes others and so while I do still believe in my Injinji liners, they aren't without their flaws.
 
 Another note is that this trail is *muddy* and we were there without significant rainfall preceding or during the walk. If you did this walk pretty much any other week, dodging the mud would not be possible. This is one of the few times that I think a full coverage boot can be much more pleasant. I was willing to put up with muddy socks but was thankfully spared. Something to consider!
 
-{% figure caption:"Mud. We didn't have too much of this, but boy when we did..." %}
-  ![Mud](/assets/images/post_res/overland/mud.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/mud.jpg" description="Mud. We didn't have too much of this, but boy when we did..." %}
 
 #### Tent Platforms
 
 I have heard reports of non-freestanding tents being a bit of a pain on the tent platforms and can understand this. The chains and nails provide what I would consider fairly flexible pitching options but you have to be willing to compromise some aspect of your pitch. One a tent like the x-mid where a good pitch gives you a lot more structure... compromising isn't ideal. I found that a combination of big rock little rock, combining the chains to tension then in the direction you want, and the nails provided gave me a good ability to pitch. I did trial a set of thin wire deck anchors as I had heard some platforms, particularly new ones, did not have a lot of space between the gaps and so a traditional deck anchor wouldn't fit. I didn't end up needing to test this in the end as when I did use the deck anchors there was a big enough gap, but I lent out a deck anchor to someone who had good success with it, so I would recommend spending $20 on a set of these. Ditch the spring if yours comes with it, they are unnecessary.
 
-{% figure caption:"An ebay deck anchor holding fast. These are slim enough to fit through even the low gap platforms." %}
-  ![Deck Anchor](/assets/images/post_res/overland/deckanchor.jpg)
-{% endfigure %}
+{% include image.html url="/assets/images/post_res/overland/deckanchor.jpg" description="An ebay deck anchor holding fast. These are slim enough to fit through even the low gap platforms." %}
 
 #### Water Filter
 
