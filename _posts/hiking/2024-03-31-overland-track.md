@@ -24,11 +24,11 @@ The conditions are an important backdrop to our entire trip. We experienced no r
 
 {% include image.html url="/assets/images/post_res/overland/govee.jpg" description="Temperature over the week as reported by the GoVee device." %}
 
-Dates: March 04-09 2024
-Approx Daily High: 20-26 C
-Approx Daily Low: 0-1 C
+- Dates: March 04-09 2024
+- Approx Daily High: 20-26&deg;C
+- Approx Daily Low: 0-1&deg;C
 
-We slept in tents at New Pelion (0C overnight) and Narcissus (14C overnight), so all the other data is from inside huts. The massive high at 36C is from leaving my packs (and therfore the GoVee) in the sun while we walked up Mt Ossa... oops!
+We slept in tents at New Pelion (0C overnight) and Narcissus (14&deg;C overnight), so all the other data is from inside huts. The massive high at 36C is from leaving my packs (and therfore the GoVee) in the sun while we walked up Mt Ossa... oops!
 
 
 ### Day 1 - Ronny Creek to  Waterfall Valley
@@ -197,6 +197,6 @@ As a quick final note, here's a list of the gear we most frequently heard making
 - Excessive toiletries
 	- Deodorant is futile, soap/shampoo/conditioner is mostly non-usable except for the showers at the end, and your skincare routine is unlikely to survive
 
-[lighterpack]: https://lighterpack.com/r/1freob)
+[lighterpack]: https://lighterpack.com/r/1freob
 [les]: https://www.abc.net.au/news/2022-01-02/les-whittle-20th-overland-track-walk/100689730
 [skurkawpb]: (https://andrewskurka.com/backpacking-clothing-rain-jacket-rain-pants/)
