@@ -22,7 +22,8 @@ Without further ado, let's get into some of the topics that stuck out to me.
 
 The conditions are an important backdrop to our entire trip. We experienced no rain, as a yearly average it rains (at best) every second day. The day before we set off, wind was measured at 110kph at Cradle Mt visitor centre and hearing from those that were on the trail that day it was absolutely vicious. I measure temperature using my GoVee thermo hygrometer, it did spend some nights inside huts with me so I've provided an overall view of temperatures:
 
-{% include image.html url="/assets/images/post_res/govee.jpg" description="Temperature over the week as reported by the GoVee device." %}
+![GoVee Test](/assets/images/post_res/overland/govee.jpg)
+{% include image.html url="/assets/images/post_res/overland/govee.jpg" description="Temperature over the week as reported by the GoVee device." %}
 
 Dates: March 04-09 2024
 Approx Daily High: 20-26 C
