@@ -16,10 +16,6 @@ gem "jekyll-feed"
 gem "jekyll-include-cache"
 gem "faraday-retry"
 gem "jekyll-remote-theme", "~>0.6.2"
-gem "webrick"
-gem "csv"
-gem "base64"
-# gem "openssl"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -40,3 +36,5 @@ gem "minimal-mistakes-jekyll"
 
 # Workaround webrick error
 gem "webrick"
+gem "csv"
+gem "base64"
