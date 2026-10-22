@@ -16,6 +16,7 @@ gem "jekyll-feed"
 gem "jekyll-include-cache"
 gem "faraday-retry"
 gem "jekyll-remote-theme", "~>0.6.2"
+gem "webrick"
 # gem "openssl"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
